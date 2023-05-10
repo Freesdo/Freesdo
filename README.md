@@ -1,7 +1,7 @@
 ## Olá 👋 meu nome é Frederico e eu sou universitário da Universidade de Brasília. Estou fazendo o curso de Engenharia de Redes de Comunicação e espero trabalhar com segurança da informação ou até infraestrutura de redes.
 
 
-### Atualmente estou aprendendo ![blog](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white) e ![blog](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png) pois são linguagens que chamaram a minha atenção. Até agora não fiz nada tão sério e trabalhoso com essas linguagens mas espero evoluir ainda mais com elas.
+### Atualmente estou aprendendo C e C++ pois são linguagens que chamaram a minha atenção. Até agora não fiz nada tão sério e trabalhoso com essas linguagens mas espero evoluir ainda mais com elas.
  
  ### Utilizo ![blog](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white) atualmente mas sou um iniciante no mundo gnu/linux ainda
 
